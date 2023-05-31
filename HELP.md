@@ -1,3 +1,7 @@
-# wwww菜鸟ddsd教程 Git 测试
+# wwww菜鸟ddsd教程 Git 测试再加一句
+<<<<<<< Updated upstream
 
-第一次修改
+
+=======
+#  测试再零一
+>>>>>>> Stashed changes
